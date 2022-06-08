@@ -1,0 +1,12 @@
+﻿  master.c
+    正在创建库 D:\repos\c\Dll_Master\Debug\Dll_Master.lib 和对象 D:\repos\c\Dll_Master\Debug\Dll_Master.exp
+  Dll_Master.vcxproj -> D:\repos\c\Dll_Master\Debug\Dll_Master.dll
+  D:\repos\c\Dll_Master\master.h -> D:\repos\c\Dll_Master_Test\cdll\master.h
+  D:\repos\c\Dll_Master\Debug\master.h -> D:\repos\c\Dll_Master_Test\cdll\Debug\master.h
+  复制了 2 个文件
+  D:\repos\c\Dll_Master\Debug\Dll_Master.dll -> D:\repos\c\Dll_Master_Test\cdll\Dll_Master.dll
+  复制了 1 个文件
+  D:\repos\c\Dll_Master\Debug\Dll_Master.dll -> D:\repos\c\Dll_Master_TestQt\cdll\Dll_Master.dll
+  复制了 1 个文件
+  D:\repos\c\Dll_Master\Debug\Dll_Master.dll -> D:\repos\c\Dll_Master_TestCSharp\cdll\Dll_Master.dll
+  复制了 1 个文件

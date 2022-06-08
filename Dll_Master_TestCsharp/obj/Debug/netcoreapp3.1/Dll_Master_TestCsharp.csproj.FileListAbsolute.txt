@@ -1,0 +1,14 @@
+D:\repos\c\Dll_Master_TestCsharp\bin\Debug\netcoreapp3.1\Dll_Master_TestCsharp.exe
+D:\repos\c\Dll_Master_TestCsharp\bin\Debug\netcoreapp3.1\Dll_Master_TestCsharp.deps.json
+D:\repos\c\Dll_Master_TestCsharp\bin\Debug\netcoreapp3.1\Dll_Master_TestCsharp.runtimeconfig.json
+D:\repos\c\Dll_Master_TestCsharp\bin\Debug\netcoreapp3.1\Dll_Master_TestCsharp.runtimeconfig.dev.json
+D:\repos\c\Dll_Master_TestCsharp\bin\Debug\netcoreapp3.1\Dll_Master_TestCsharp.dll
+D:\repos\c\Dll_Master_TestCsharp\bin\Debug\netcoreapp3.1\Dll_Master_TestCsharp.pdb
+D:\repos\c\Dll_Master_TestCsharp\obj\Debug\netcoreapp3.1\Dll_Master_TestCsharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\c\Dll_Master_TestCsharp\obj\Debug\netcoreapp3.1\Dll_Master_TestCsharp.AssemblyInfoInputs.cache
+D:\repos\c\Dll_Master_TestCsharp\obj\Debug\netcoreapp3.1\Dll_Master_TestCsharp.AssemblyInfo.cs
+D:\repos\c\Dll_Master_TestCsharp\obj\Debug\netcoreapp3.1\Dll_Master_TestCsharp.csproj.CoreCompileInputs.cache
+D:\repos\c\Dll_Master_TestCsharp\obj\Debug\netcoreapp3.1\Dll_Master_TestCsharp.dll
+D:\repos\c\Dll_Master_TestCsharp\obj\Debug\netcoreapp3.1\Dll_Master_TestCsharp.pdb
+D:\repos\c\Dll_Master_TestCsharp\obj\Debug\netcoreapp3.1\Dll_Master_TestCsharp.genruntimeconfig.cache
+D:\repos\c\Dll_Master_TestCsharp\obj\Debug\netcoreapp3.1\Dll_Master_TestCsharp.csproj.AssemblyReference.cache

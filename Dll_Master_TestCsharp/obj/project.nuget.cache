@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VdMygGn0LXxUWhneyICmhRmtMVwY98+sZAq2HJ3SY3fO6Ym8y0G41roa36hSRXQdQT4DzaCdy7FEgR8NOZYFVw==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\c\\Dll_Master\\Dll_Master_TestCsharp\\Dll_Master_TestCsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\53545\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\3.1.22\\microsoft.netcore.app.host.win-x86.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
